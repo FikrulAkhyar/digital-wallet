@@ -6,7 +6,7 @@ Digital Wallet API adalah aplikasi berbasis Spring Boot yang menyediakan fitur m
 - **Spring Boot** (REST API)
 - **Spring Data JPA** (Database Management)
 - **Swagger UI** (API Documentation)
-- **H2 / MySQL** (Database)
+- **MySQL** (Database)
 
 ## 📌 Instalasi dan Menjalankan Aplikasi
 
