@@ -12,7 +12,7 @@ Digital Wallet API adalah aplikasi berbasis Spring Boot yang menyediakan fitur m
 
 ### 1️⃣ Clone Repository
 ```sh
-git clone https://github.com/username/digital-wallet.git
+git clone https://github.com/FikrulAkhyar/digital-wallet.git
 cd digital-wallet
 ```
 
